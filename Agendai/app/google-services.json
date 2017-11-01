@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "962084812822",
+    "firebase_url": "https://agendai-ab025.firebaseio.com",
+    "project_id": "agendai-ab025",
+    "storage_bucket": "agendai-ab025.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:962084812822:android:acb312611a0f32e6",
+        "android_client_info": {
+          "package_name": "zansavio.victorio.com.agendai"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "962084812822-4ecilncqjje5po6e6lglsr2ruiduq4rk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBuG046_lpMq--6SQaOd_YBEeq9lHz2zOY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

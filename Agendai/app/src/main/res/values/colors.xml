@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <!-- Recycler View Itens colors-->
+    <color name="circle">#C5C5C5</color>
+    <color name="mainText">#050505</color>
+    <color name="checkImageView">#00A664</color>
+    <color name="trasparent">#4D514742</color>
+</resources>
